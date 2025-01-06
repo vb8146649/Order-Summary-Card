@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github_link]()
-- Live Site URL: [live site]()
+- Solution URL: [github_link](https://github.com/vb8146649/Order-Summary-Card)
+- Live Site URL: [live site](https://vb8146649.github.io/Order-Summary-Card/)
 
 ## My process
 
